@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WiFive" GeneratedClassName="appSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.2:82/</Value>
+    </Setting>
+    <Setting Name="dayPackageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 DAY (24 hours)</Value>
+    </Setting>
+    <Setting Name="weekPackageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 WEEK (7 days)</Value>
+    </Setting>
+    <Setting Name="monthPackageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 MONTH (30 days)</Value>
+    </Setting>
+    <Setting Name="dayPackage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">86400</Value>
+    </Setting>
+    <Setting Name="weekPackage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">604800</Value>
+    </Setting>
+    <Setting Name="monthPackage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2592000</Value>
+    </Setting>
+    <Setting Name="accountCall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">generateaccounts?number=1&amp;pass=1JC8QBAQ037FNQL37JSBBSLP83EC60&amp;type=2&amp;sell=1&amp;passlength=5&amp;unlquota=1&amp;download=10000&amp;upload=10000&amp;timeleft={0}&amp;inactivity=0</Value>
+    </Setting>
+    <Setting Name="twoDayPackage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172800</Value>
+    </Setting>
+    <Setting Name="threeDayPackage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">259200</Value>
+    </Setting>
+    <Setting Name="twoDayPackageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2 DAYS (48 hours)</Value>
+    </Setting>
+    <Setting Name="threeDayPackageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3 DAYS (72 hours)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
